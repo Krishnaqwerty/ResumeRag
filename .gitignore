@@ -1,0 +1,21 @@
+# Node
+node_modules/
+
+# Next.js build
+.next/
+
+# Env files
+.env.local
+.env*
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# SQLite
+*.db
+
+# Misc
+*.swp
